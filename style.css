@@ -90,6 +90,10 @@ header h2 {
     cursor: pointer;
 }
 
+div {
+    -webkit-tap-highlight-color: transparent;
+}
+
 .control .btn {
     color: #666;
     padding: 18px;
